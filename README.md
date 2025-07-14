@@ -1,6 +1,7 @@
 # DevChallenges.io - Flip The Coin
 
-![Thumbnail for the Flip The Coin coding challenge](./thumbnail.jpg)
+[see the demo here](https://preetjotmaan.github.io/Flip_the_coin/)
+
 
 ## Welcome! 👋
 
